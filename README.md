@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node js and MongoDB
 - 📫 How to reach me aleksandar48722@its.edu.rs
 - 😄 Pronouns: male
-- ⚡ Fun fact: 
+
 
 <!---
 aleksandarz/aleksandarz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
