@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning Node js and MongoDB
 - 📫 How to reach me aleksandar48722@its.edu.rs
-- 😄 Pronouns: male
+- 😄 Pronouns: he/him
 
 
 <!---
