@@ -7,7 +7,7 @@ Software engineer
 I love to code!!!
 
 * 🌍  I'm based in Belgrade, Serbia
-* ✉️  You can contact me at [aleksadar48722@its.edu.rs](mailto:aleksadar48722@its.edu.rs)
+* ✉️  You can contact me at [aleksadar48722@its.edu.rs](mailto:aleksandar48722@its.edu.rs)
 * 🧠  I'm learning Docker and Java
 
 ### Skills
