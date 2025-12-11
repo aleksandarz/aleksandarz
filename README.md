@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Docker<br>🎯 Goals: I want to become a really good SE</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Docker<br>🎯 Goals: I want to create some really impactful software</p>
 
 ###
 
