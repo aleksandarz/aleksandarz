@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aleksandar and I'm a software engineer from Belgrade, Serbia</p>
+<p align="left">My name is Aleksandar and I'm a software engineer from Belgrade, Serbia, currently working as a Frontend developer</p>
 
 ###
 
