@@ -17,9 +17,9 @@
 
 ## About
 
-Hey, I'm Aleksandar — a frontend developer focused on building **fast, modern, and well-structured web applications** using React and Next.js. I graduated in Information Technology in 2025 and I've been building real-world projects ever since.
+Hey, I'm Aleksandar — a Software Engineer focused on building complete, well-structured applications from UI to API. I graduated in Information Technology in 2025 and I've been building real-world projects ever since.
 
-I care about **clean code**, **pixel-perfect UI**, and writing things that are easy to maintain — not just things that work.
+I care about clean code, solid architecture, and building things that are easy to maintain — on both sides of the stack.
 
 Currently learning: `Node.js` · `Express` · `MongoDB`
 
@@ -35,7 +35,7 @@ Currently learning: `Node.js` · `Express` · `MongoDB`
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend (learning)**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
